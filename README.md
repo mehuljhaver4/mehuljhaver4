@@ -36,14 +36,14 @@
   ![Jira](https://img.shields.io/badge/-Jira-333333?style=flat&logo=jira)
   ![Confluence](https://img.shields.io/badge/-Confluence-333333?style=flat&logo=confluence)
 
-<br/>
+<!-- <br/>
 
 <a href="https://github.com/mehuljhaver4">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mehuljhaver4&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehuljhaver4&theme=buefy&layout=compact" />
 </a>
 
-<br/>
+<br/> -->
 
 <h3> 🤝🏻 &nbsp;Let's Connect! </h3>
 

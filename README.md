@@ -3,7 +3,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Currently pursuing Masters in Computer and Information Sciences from the University of Florida.
+- 🎓 &nbsp; Masters in Computer and Information Sciences from the University of Florida.
 - 💼 &nbsp; Experienced Machine Learning Engineer. Actively looking for full time Software/Machine Learning Engineer roles.
 - 🌱 &nbsp; Learning more about Artificial Intelligence, Cloud Computing, and Systems Design.
 

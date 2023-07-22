@@ -4,7 +4,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Masters in Computer and Information Sciences from the University of Florida.
-- 💼 &nbsp; Experienced Machine Learning Engineer. Actively looking for full time Software/Machine Learning Engineer roles.
+- 💼 &nbsp; Experienced Machine Learning Engineer. Actively looking for full-time Software/Machine Learning Engineer roles.
 - 🌱 &nbsp; Learning more about Artificial Intelligence, Cloud Computing, and Systems Design.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
@@ -51,5 +51,5 @@
 <p align="left">
 <a href="https://mehuljhaver-portfolio.netlify.app/"><img alt="Website" src="https://img.shields.io/badge/Website-www.mehuljhaver.com-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/mehul-jhaver/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Mehul%20Jhaver-blue?style=flat-square&logo=linkedin"></a>
-<a href="mailto:mehuljhaver@ufl.edu"><img alt="Email" src="https://img.shields.io/badge/Email-mehuljhaver@ufl.edu-blue?style=flat-square&logo=gmail"></a>
+<a href="mailto:mehuljhaver@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-mehuljhaver@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
